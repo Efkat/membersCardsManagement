@@ -10,11 +10,15 @@ for(let index = 0; index < addButtons.length; index++){
     addButtons[index].addEventListener("click", function () {
         if(membersCount < membersMax){
             membersCount++
-            cardContainer.insertAdjacentHTML('beforeend', '<section class="card">\n' +
-                '            <h1>MEMBRE X</h1>\n' +
-                '            <input type="text" placeholder="Nom">\n' +
-                '            <input type="text" placeholder="Prénom">\n' +
-                '            <input type="text" placeholder="Instrument">\n' +
+            cardContainer.insertAdjacentHTML('beforeend', '<section class="card text-white bg-primary m-3" style="max-width: 20rem">\n' +
+                '            <div class="card-header">MEMBRE 1</div>\n' +
+                '            <div class="card-body">\n' +
+                '                <div class="form-group">\n' +
+                '                    <input type="text" class="form-control my-1" placeholder="Nom">\n' +
+                '                    <input type="text" class="form-control my-1" placeholder="Prénom">\n' +
+                '                    <input type="text" class="form-control my-1" placeholder="Instrument">\n' +
+                '                </div>\n' +
+                '            </div>\n' +
                 '        </section>')
             updateCardsNumber()
         }else{
