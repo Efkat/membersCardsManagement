@@ -9,19 +9,20 @@
     <link rel="stylesheet" href="https://bootswatch.com/4/journal/bootstrap.min.css" type="text/css">
 </head>
 <body>
-    <header>
-        <button class="delete">Supprimer</button>
-        <button class="add">Ajouter</button>
-    </header>
+    <div>
+        <button class="add btn btn-outline-info">Ajouter</button>
+        <button class="delete btn btn-outline-warning">Supprimer</button>
+    </div>
     <div id="container" class="d-flex flex-wrap">
         <section class="card text-white bg-primary m-3" style="max-width: 20rem">
             <div class="card-header">MEMBRE 1</div>
             <div class="card-body">
                 <div class="form-group">
-                    <input type="text" class="form-control my-1" placeholder="Nom">
-                    <input type="text" class="form-control my-1" placeholder="Prénom">
-                    <input type="text" class="form-control my-1" placeholder="Instrument">
+                    <input type="text" class="form-control my-1 nom-input" placeholder="Nom">
+                    <input type="text" class="form-control my-1 prenom-input" placeholder="Prénom">
+                    <input type="text" class="form-control my-1 instrument-input" placeholder="Instrument">
                 </div>
+                <button type="button" class="btn btn-info btn-sm">Confirmer membre</button>
             </div>
         </section>
     </div>
