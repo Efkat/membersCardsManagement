@@ -10,9 +10,10 @@
 </head>
 <body>
     <div>
-        <button class="add btn btn-outline-info">Ajouter</button>
-        <button class="delete btn btn-outline-warning">Supprimer</button>
+        <button id="add" class="btn btn-outline-info">Ajouter</button>
+        <button id="delete" class="btn btn-outline-warning">Supprimer</button>
     </div>
+
     <div id="container" class="d-flex flex-wrap">
         <section class="card text-white bg-primary m-3" style="max-width: 20rem">
             <div class="card-header">MEMBRE 1</div>
@@ -26,7 +27,7 @@
             </div>
         </section>
     </div>
-
+    <input id="membresVariables" type="text" value="" name="membres" style="display: none">
 </body>
 <script src="script.js"></script>
 </html>

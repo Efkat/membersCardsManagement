@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f26f56d5-f179-471f-9978-bac035a65ed8" name="Default Changelist" comment="" />
+    <list default="true" id="f26f56d5-f179-471f-9978-bac035a65ed8" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/script.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,6 +19,14 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProblemsViewState">
+    <hideBySeverity>
+      <option value="200" />
+    </hideBySeverity>
+  </component>
   <component name="ProjectId" id="1k4OxehJweyaXygjPL8pNt74z3x" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -25,6 +37,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.CommitDialog" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -39,6 +52,15 @@
       <workItem from="1605024030294" duration="12000" />
       <workItem from="1605024062877" duration="3000" />
       <workItem from="1605040860637" duration="1669000" />
+      <workItem from="1605112551946" duration="1726000" />
+      <workItem from="1605124230672" duration="206000" />
+      <workItem from="1605125230165" duration="1680000" />
+      <workItem from="1605126940026" duration="2168000" />
+      <workItem from="1605129147456" duration="162000" />
+      <workItem from="1605130340531" duration="2259000" />
+      <workItem from="1605162969422" duration="197000" />
+      <workItem from="1605164538074" duration="8000" />
+      <workItem from="1605274557938" duration="3245000" />
     </task>
     <servers />
   </component>
@@ -50,10 +72,18 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040/-4.-1080.1920.1080@0.0.1920.1040" timestamp="1605024040189" />
-    <state x="619" y="-846" width="672" height="705" key="search.everywhere.popup" timestamp="1605041142483">
-      <screen x="-4" y="-1080" width="1920" height="1080" />
+    <state x="461" y="164" key="SettingsEditor" timestamp="1605275230230">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="164" key="SettingsEditor/0.0.1920.1040/-4.-1080.1920.1080@0.0.1920.1040" timestamp="1605275230230" />
+    <state x="616" y="240" key="run.anything.popup" timestamp="1605129128914">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="240" key="run.anything.popup/0.0.1920.1040/-4.-1080.1920.1080@0.0.1920.1040" timestamp="1605129128914" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1605275265590">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="619" y="-846" width="672" height="705" key="search.everywhere.popup/0.0.1920.1040/-4.-1080.1920.1080@-4.-1080.1920.1080" timestamp="1605041142483" />
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/-4.-1080.1920.1080@0.0.1920.1040" timestamp="1604956715528" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/-4.-1080.1920.1080@0.0.1920.1040" timestamp="1605275265590" />
   </component>
 </project>
